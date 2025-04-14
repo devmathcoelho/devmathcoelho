@@ -18,7 +18,7 @@ And in the future, I plan to become Senior using .NET as my main tecnologhy. If 
     title=".Net" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" 
 />
 <img 
     align="left" 
