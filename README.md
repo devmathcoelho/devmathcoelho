@@ -80,4 +80,5 @@ And in the future, I plan to become Senior using .NET as my main tecnologhy. If 
 
 ### 📊 Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmathcoelho&layout=compact&theme=merko)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devmathcoelho&show_icons=true&theme=dark&hide_border=true" alt="Matheus's github stats" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmathcoelho&layout=compact&theme=merko&hide_border=true)
